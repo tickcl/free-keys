@@ -1,0 +1,4 @@
+The keys were taken from an open source.
+📡 Sources:
+https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
+https://gist.github.com/kimgiftww/6d6242e35ef6e3baa3a6e4fb8f386d0b
