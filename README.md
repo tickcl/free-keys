@@ -11,8 +11,9 @@ Library of working and free keys for different products.
 ## Todo list 📃
 
 - [x] Start developing free-keys library
-- [ ] Create an AI that searches the public domain for keys
+- [ ] Create an AI that searches free keys
 - [ ] Create detailed documentation
+- [ ] Make 20+ folders with keys
 
 ## How to use 💡
 
