@@ -22,3 +22,6 @@ Go to the library folder, there you can look for the keys to your program, in th
 ## Star History ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=somebodyscript/free-keys&type=Date)](https://star-history.com/#somebodyscript/free-keys&Date)
+
+## Support me 💓
+[Buy Me A Coffee :D](https://www.buymeacoffee.com/somebodyjs)
