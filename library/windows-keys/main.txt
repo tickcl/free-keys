@@ -12,7 +12,7 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms8.msguides.com
 slmgr /ato
 
-There are other keys for activating other licenses below, I have not checked them, they may be incorrect:
+There are other keys for activating other licenses below:
 Windows 11 Pro
 Windows 10 Pro	W269N-WFGWX-YVC9B-4J6C9-T83GX
 
